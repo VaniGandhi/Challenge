@@ -19,7 +19,7 @@
                 android:id="@+id/ivFlag"
                 android:layout_width="100dp"
                 android:layout_height="100dp"
-                android:scaleType="fitXY"
+                android:scaleType="fitCenterg"
                 app:layout_constraintTop_toTopOf="parent"
                 app:layout_constraintStart_toStartOf="parent"
                 app:shapeAppearanceOverlay="@style/rectangleImageView"/>
